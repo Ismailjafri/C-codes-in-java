@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q1 {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter Starting Point: ");
+        System.out.print("Enter Starting Point Now: ");
         int sp = input.nextInt();
 
         System.out.print("Enter Ending Point: ");
