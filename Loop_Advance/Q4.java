@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q4 {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter A Number: ");
+        System.out.print("Enter A Number Rn: ");
         int a = input.nextInt();
 
         int ld = a%10;
